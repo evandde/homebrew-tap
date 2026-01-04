@@ -5,8 +5,8 @@
 class G4starter < Formula
   desc "Interactive cli tool for generating geant4 simulation projects"
   homepage "https://github.com/evandde/G4Starter"
-  url "https://github.com/evandde/G4Starter/archive/refs/tags/v0.1.3.tar.gz"
-  sha256 "0bc52a8b18839e164e7fcecdcfa81543911308ad4d615140beecc28544567346"
+  url "https://github.com/evandde/G4Starter/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "dfe2940eb77ff1f0b4e7e2efb39b8ea8c9bf1730caf9f61bd421299c6d60cc34"
   license "MIT"
 
   on_macos do
