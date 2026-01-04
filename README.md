@@ -1,5 +1,3 @@
-# homebrew-tap
-
 # Homebrew Tap
 
 Personal Homebrew tap for evandde's projects.
